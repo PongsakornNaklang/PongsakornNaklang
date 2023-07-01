@@ -1,4 +1,11 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&color=0ABAB5&multiline=true&width=450&lines=Hi+there!%F0%9F%91%8B;I'm+Pongsakorn+Naklang+%F0%9F%A4%AD)](https://git.io/typing-svg)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PongsakornNaklang&show_icons=true&locale=en&layout=compact" alt="PongsakornNaklang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PongsakornNaklang&show_icons=true&locale=en" alt="PongsakornNaklang" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PongsakornNaklang&" alt="PongsakornNaklang" /></p>
+
 
 <!--
 **PongsakornNaklang/pongsakornnaklang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
