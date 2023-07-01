@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&color=0ABAB5&multiline=true&width=500&height=65&lines=Hi+there!%F0%9F%91%8B;I'm+Pongsakorn+Naklang💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&color=0ABAB5&multiline=true&width=500&height=65&lines=Hi+there!%F0%9F%91%8B;I'm+Nong+Bank+💙)](https://git.io/typing-svg)
 
 ## Connect with me
 <p align="left">
